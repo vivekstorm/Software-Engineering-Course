@@ -28,7 +28,7 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 ## List of Applied Software Engineering program - Product Development Program + DS & Algo
 | Name                 | Location      | Cost   | Website |
 | -------------        |:-------------:| :----- | :-------|
-| Crio.Do | Online | No information Available  | https://www.crio.do/ |
+| Crio.Do              | Online        | No information Available  | https://www.crio.do/ |
 
 ## List of training institute for Data Structure and Algorithms
 | Name                 | Location      | Cost   | Website |
@@ -52,4 +52,13 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | InterviewPrep by Ravindrababu Sir | Online-self paced |₹18,500 | https://ravindrababuravula.com/interviewpreperation.php |
 | GoMaster | Bangalore/Online | ₹ 15,000  | http://gomaster.in/ |
 
+## ReactJS course
 
+| Name                 | Location      | Cost   | Website |
+| -------------        |:-------------:| :----- | :-------|
+|JSFactory             | Bangalore     |No information available| http://jsfactory.in/ |
+
+### Note 
+The content in the list are taken from various resources found on internet. There are high chances of errors in the list. I kindly request you to help in resolving the errors in the list. 
+
+> List last updated on 14/12/2019. The list is still under development, I will add more to the list in future. 
