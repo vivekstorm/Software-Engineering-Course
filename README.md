@@ -50,7 +50,7 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | GoHired | Online-live instructor led | ₹ 20,000 | https://www.gohired.in/ |
 | InterviewPrep by AppliedAI | Online-self paced| ₹12,000+GST | https://interviewprep.appliedcourse.com/ |
 | InterviewPrep by Ravindrababu Sir | Online-self paced |₹18,500 | https://ravindrababuravula.com/interviewpreperation.php |
-| GoMaster | Bangalore/Online | ₹ 15,000  | http://gomaster.in/ |
+| GoMaster | Bangalore/Online | ₹ 20,000  | http://gomaster.in/ |
 
 ## ReactJS course
 
