@@ -43,6 +43,8 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | CodingNinjas | Delhi/Online     | Varies based on course    | https://www.codingninjas.in/ |
 | CodingBlocks | Delhi/Online     | No information Available  | https://codingblocks.com/ | 
 | GeeksforGeeks| Delhi/Online     | ₹6999  |https://practice.geeksforgeeks.org/courses/dsa-foundation-live?vb=186  |
+| PepCoding | Delhi/Online | ₹20000/-| https://www.pepcoding.com/courses/online|
+| ItBodhi | Noida/Online | ₹20000/- | http://itbodhi.com/ |
 
 ## Other interview prep courses (DS & Algo) by individual persons
 
