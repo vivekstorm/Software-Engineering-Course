@@ -6,7 +6,7 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | Bootcamp Name        | Location      | Cost  | Website |
 | -------------        |:-------------:| :----- | :-------|
 | AttainU              | Online        | ₹2L upfront  or ₹3L after getting job | https://www.attainu.com/ |
-| Masai School         | Online/Bangalore/Pune      |   ₹2L upfront  or ₹3L after getting job | https://www.masaischool.com/ |
+| Masai School         | Online/Bangalore/Pune      |   ₹2L+GST upfront  or ₹3L after getting job | https://www.masaischool.com/ |
 | The Valley Bootcamp        | Bangalore      |    ₹ 54990/- [Multiple course available] | https://www.thevalleybootcamp.com/|
 | GeekSchool| Bangalore | Free | https://www.geekskool.com/ |
 | Jaaga Study | Bangalore | No info available| https://www.jaaga.in/study |
@@ -22,8 +22,8 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 ## List of Academy 
 | Academy Name         | Location      | Cost  | Website |
 | -------------        |:-------------:| :----- | :-------|
-| InterviewBit Academy  | Online        | ₹1.5L / ₹2L(with job Guarantee agreement) upfront  or ₹3L after getting job | https://www.interviewbit.com/academy/ |
-| After Academy | Online | ₹9,793( for DS & Algo) | https://afteracademy.com/ |
+| Scaler Academy  | Online        | ₹1.5L / ₹3L(with job Guarantee agreement) upfront  or 15% of base salary after getting job | https://www.scaler.com |
+| After Academy | Online | ₹2990/m( all courses) | https://afteracademy.com/ |
 
 ## List of Applied Software Engineering program - Product Development Program + DS & Algo
 | Name                 | Location      | Cost   | Website |
@@ -61,4 +61,4 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 ### Note 
 The content in the list are taken from various resources found on internet. There are high chances of errors in the list. I kindly request you to help in resolving the errors in the list. 
 
-> List last updated on 14/12/2019. The list is still under development, I will add more to the list in future. 
+> List last updated on 1/04/2020. The list is still under development, I will add more to the list in future. 
