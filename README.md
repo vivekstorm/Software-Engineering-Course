@@ -24,6 +24,7 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | -------------        |:-------------:| :----- | :-------|
 | Scaler Academy  | Online        | ₹1.5L / ₹3L(with job Guarantee agreement) upfront  or 15% of base salary after getting job | https://www.scaler.com |
 | After Academy | Online | ₹2990/m( all courses) | https://afteracademy.com/ |
+| Programming Pathshala | Online | ₹64000/- | https://programmingpathshala.com/genesis |
 
 ## List of Applied Software Engineering program - Product Development Program + DS & Algo
 | Name                 | Location      | Cost   | Website |
