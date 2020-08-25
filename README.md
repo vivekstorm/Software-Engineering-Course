@@ -11,7 +11,7 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | GeekSchool| Bangalore | Free | https://www.geekskool.com/ |
 | Jaaga Study | Bangalore | No info available| https://www.jaaga.in/study |
 | HackingSchool | Multiple Locations| No info available| https://thehackingschool.com |
-| CodeAsylums | Bangalore | ₹ 30K + 18 % GST(Varies based on course) | https://www.codeasylums.com/ |
+| CodeAsylums | Bangalore | No info available | https://www.codeasylums.com/ |
 | BridgeLabz | Bangalore |No info available | https://www.bridgelabz.com/ |
 | YouStart | Jaipur | No info available | https://youstart.in/ |
 | ICanCode | Hyderabad | No info available | http://www.icancode.in/contact.html |
@@ -22,8 +22,8 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 ## List of Academy 
 | Academy Name         | Location      | Cost  | Website |
 | -------------        |:-------------:| :----- | :-------|
-| Scaler Academy  | Online        | ₹1.5L / ₹3L(with job Guarantee agreement) upfront  or 15% of base salary after getting job | https://www.scaler.com |
-| After Academy | Online | ₹2990/m( all courses) | https://afteracademy.com/ |
+| Scaler Academy  | Online        | Varies based on different options | https://www.scaler.com |
+| After Academy | Online | ₹5490/mo( all courses) | https://afteracademy.com/ |
 | Programming Pathshala | Online | ₹64000/- | https://programmingpathshala.com/genesis |
 
 ## List of Applied Software Engineering program - Product Development Program + DS & Algo
@@ -38,7 +38,7 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | GildAcadmy   | Bangalore/Online | No information Available  | https://www.gildacademy.in/ |
 | TechBoost    | Bangalore        | No information Available  | http://www.techboost.in/ |
 | SmartInterivews| Hyderabad  | ₹ 18000 | https://www.smartinterviews.in/ |
-| Algorithmica   | Hyderabad  | No information available | http://www.algorithmica.co.in/course5.php |
+| Algorithmica   | Hyderabad  | No information available | https://algorithmicaonline.com/ |
 | PrepBytes    | Online           | No information Available  | https://www.prepbytes.com/ |
 | CodingNinjas | Delhi/Online     | Varies based on course    | https://www.codingninjas.in/ |
 | CodingBlocks | Delhi/Online     | No information Available  | https://codingblocks.com/ | 
@@ -64,4 +64,4 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 ### Note 
 The content in the list are taken from various resources found on internet. There are high chances of errors in the list. I kindly request you to help in resolving the errors in the list. 
 
-> List last updated on 1/04/2020. The list is still under development, I will add more to the list in future. 
+> List last updated on 25/08/2020. The list is still under development, I will add more to the list in future. 
