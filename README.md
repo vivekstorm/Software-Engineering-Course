@@ -17,7 +17,9 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | ICanCode | Hyderabad | No info available | http://www.icancode.in/contact.html |
 | Iron School | Bangalore | ₹1.5L | https://ironschool.io/ |
 | PestoTech | Delhi | No info available | https://www.pesto.tech/contact |
-| Zen Class by GUVI | Chennai | Approx ₹ 70K | https://www.guvi.in/zen/ |
+| Zen Class by GUVI | Chennai | Approx ₹ 70K | https://www.guvi.in/zenclass/ |
+|Newton School| Bangalore | No info available | https://www.newtonschool.co/ |
+| Propel School | Bangalore | No info available | https://learn.propel.school |
 
 ## List of Academy 
 | Academy Name         | Location      | Cost  | Website |
