@@ -47,7 +47,8 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | GeeksforGeeks| Delhi/Online     | ₹6999  |https://practice.geeksforgeeks.org/courses/dsa-foundation-live?vb=186  |
 | PepCoding | Delhi/Online | ₹20000/-| https://www.pepcoding.com/courses/online|
 | ItBodhi | Noida/Online | ₹20000/- | http://itbodhi.com/ |
-|LogicMojo | Online | ₹1495/- | https://www.logicmojo.com/ |
+|LogicMojo | Online | ₹5950/- | https://www.logicmojo.com/ |
+| TutorT| Online | ₹29999/-| http://tutort.net/ |
 
 ## Other interview prep courses (DS & Algo) by individual persons
 
