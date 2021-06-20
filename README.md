@@ -28,6 +28,11 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | After Academy | Online | ₹5490/mo( all courses) | https://afteracademy.com/ |
 | Programming Pathshala | Online | ₹64000/- | https://programmingpathshala.com/genesis |
 
+## Visual Learning of DS/Algo
+| Name                 | Location      | Cost   | Website |
+| -------------        |:-------------:| :----- | :-------|
+| Log2Base2             | Online        | 3000/-  | https://www.log2base2.com/courses/coding-interview-patterns |
+
 ## List of Applied Software Engineering program - Product Development Program + DS & Algo
 | Name                 | Location      | Cost   | Website |
 | -------------        |:-------------:| :----- | :-------|
