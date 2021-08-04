@@ -27,6 +27,7 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | Scaler Academy  | Online        | Varies based on different options | https://www.scaler.com |
 | After Academy | Online | ₹5490/mo( all courses) | https://afteracademy.com/ |
 | Programming Pathshala | Online | ₹64000/- | https://programmingpathshala.com/genesis |
+| AceCademy | Online | Varies based on course | https://www.acecademy.com/ |
 
 ## Visual Learning of DS/Algo
 | Name                 | Location      | Cost   | Website |
