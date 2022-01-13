@@ -15,9 +15,8 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | BridgeLabz | Bangalore |No info available | https://www.bridgelabz.com/ |
 | YouStart | Jaipur | No info available | https://youstart.in/ |
 | ICanCode | Hyderabad | No info available | http://www.icancode.in/contact.html |
-| Iron School | Bangalore | ₹1.5L | https://ironschool.io/ |
 | PestoTech | Delhi | No info available | https://www.pesto.tech/contact |
-| Zen Class by GUVI | Chennai | Approx ₹ 70K | https://www.guvi.in/zenclass/ |
+| Zen Class by GUVI | Chennai | Approx ₹ 70K | https://www.guvi.in/full-stack-development-course-with-javascript-ZenClass |
 |Newton School| Bangalore | No info available | https://www.newtonschool.co/ |
 | Propel School | Bangalore | No info available | https://learn.propel.school |
 
@@ -26,8 +25,9 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | -------------        |:-------------:| :----- | :-------|
 | Scaler Academy  | Online        | Varies based on different options | https://www.scaler.com |
 | After Academy | Online | ₹5490/mo( all courses) | https://afteracademy.com/ |
-| Programming Pathshala | Online | ₹64000/- | https://programmingpathshala.com/genesis |
+| Programming Pathshala | Online | ₹25000/- | https://renaissance.programmingpathshala.com/crack-coding-interviews |
 | AceCademy | Online | Varies based on course | https://www.acecademy.com/ |
+| BossCoder Academy | Online | No info | https://www.bosscoderacademy.com/ |
 
 ## Visual Learning of DS/Algo
 | Name                 | Location      | Cost   | Website |
@@ -43,7 +43,6 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | Name                 | Location      | Cost   | Website |
 | -------------        |:-------------:| :----- | :-------|
 | LearnBay     | Bangalore/Online | No information Available  | https://www.learnbay.in/ |
-| GildAcadmy   | Bangalore/Online | No information Available  | https://www.gildacademy.in/ |
 | TechBoost    | Bangalore        | No information Available  | http://www.techboost.in/ |
 | SmartInterivews| Hyderabad  | ₹ 18000 | https://www.smartinterviews.in/ |
 | Algorithmica   | Hyderabad  | No information available | https://algorithmicaonline.com/ |
@@ -55,6 +54,8 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | ItBodhi | Noida/Online | ₹20000/- | http://itbodhi.com/ |
 |LogicMojo | Online | ₹5950/- | https://www.logicmojo.com/ |
 | TutorT| Online | ₹29999/-| http://tutort.net/ |
+| AlgoZenith | Online | Varies based on course | https://algozenith.com/home |
+| CodingMinutes | Online | No information Available | https://www.codingminutes.com/ |
 
 ## Other interview prep courses (DS & Algo) by individual persons
 
@@ -65,6 +66,12 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 | InterviewPrep by Ravindrababu Sir | Online-self paced |₹18,500 | https://ravindrababuravula.com/interviewpreperation.php |
 | GoMaster | Bangalore/Online | ₹ 20,000  | http://gomaster.in/ |
 
+## SystemDesign course
+| Name                 | Location      | Cost   | Website |
+| -------------        |:-------------:| :----- | :-------|
+| Arpit SystemDesign | Online-live instructor led | ₹ 25,000 | https://arpitbhayani.me/masterclass |
+| InterviewReady | Recorded video course | No info| https://get.interviewready.io/ |
+
 ## ReactJS course
 
 | Name                 | Location      | Cost   | Website |
@@ -74,4 +81,4 @@ My list of available free/paid courses, bootcamps and academy available for Codi
 ### Note 
 The content in the list are taken from various resources found on internet. There are high chances of errors in the list. I kindly request you to help in resolving the errors in the list. 
 
-> List last updated on 25/08/2020. The list is still under development, I will add more to the list in future. 
+> List last updated on 14/01/2022. The list is still under development, I will add more to the list in future. 
